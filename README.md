@@ -10,7 +10,7 @@ A simple widget to display your (or anyone's) Chess.com stats!
 - Displays **ratings** across multiple time controls (Bullet, Blitz, Rapid, Daily)  
 - Includes **Tactics** (AKA Puzzles) rating and **Total games played**  
 - Clean card-style layout with color-coded backgrounds  
-- 🖼Chess.com-chessboard-inspired **background** using a chessboard SVG  
+- Chess.com-chessboard-inspired **background** using a chessboard SVG  
 - Built with [Preact](https://preactjs.com) and functional hooks
 
 ## 📦 Installation
