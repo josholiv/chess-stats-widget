@@ -6,8 +6,8 @@ const fetchChessStats = async (username: string) => {
   return await response.json();
 };
 
-const username = 'MagnusCarlsen';
-const chessboard = '/chessboard.svg';
+const username = 'MagnusCarlsen'; // change to your own Chess.com username
+const chessboard = '/chessboard.svg'; // path to the background SVG
 
 const ChessStats: FunctionalComponent = () => {
   const [stats, setStats] = useState<any>(null);
