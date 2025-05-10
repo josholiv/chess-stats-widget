@@ -56,7 +56,7 @@ Each stat card uses the formatCard() helper. You can easily tweak:
 
 ## 📜 License
 
-MIT License © 2025 Josh Olivier
+MIT License © 2025 josholiv
 
 Pull requests and issues welcome!
 Feel free to fork this project and integrate it into your own site or portfolio.
